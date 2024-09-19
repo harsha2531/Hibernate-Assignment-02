@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="One-To-Many" />
         <module name="HQL" />
+        <module name="JPQL" />
         <module name="Many-To-Many" />
         <module name="One-To-One-Mapping" />
         <module name="Eager-Fetching" />

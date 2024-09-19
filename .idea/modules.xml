@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Eager-Fetching.iml" filepath="$PROJECT_DIR$/Eager-Fetching.iml" />
       <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernate-Relationship.iml" filepath="$PROJECT_DIR$/Hibernate-Relationship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPQL.iml" filepath="$PROJECT_DIR$/JPQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lazy-Fetching.iml" filepath="$PROJECT_DIR$/Lazy-Fetching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Many-To-Many.iml" filepath="$PROJECT_DIR$/Many-To-Many.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-To-Many.iml" filepath="$PROJECT_DIR$/One-To-Many.iml" />
